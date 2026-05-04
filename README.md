@@ -4,6 +4,14 @@ A modern AI chat application with tree-structured conversations, inspired by min
 
 ![React](https://img.shields.io/badge/React-19-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-6-blue) ![Vite](https://img.shields.io/badge/Vite-8-purple) ![License](https://img.shields.io/badge/License-MIT-green)
 
+## Screenshots
+
+### Tree-structured Conversations
+![Conversations](public/screenshot-conversations.png)
+
+### API Settings
+![Settings](public/screenshot-settings.png)
+
 ## Introduction
 
 DeepChat is an AI-powered chat application that organizes conversations in a tree structure, similar to a mind map. Each conversation can branch into multiple child conversations, allowing you to explore different topics without losing context. The intuitive drag-and-drop interface makes it easy to organize and navigate complex discussions.
