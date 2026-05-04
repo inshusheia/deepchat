@@ -9,6 +9,9 @@ A modern AI chat application with tree-structured conversations, inspired by min
 ### Tree-structured Conversations
 ![Conversations](public/screenshot-conversations.png)
 
+### Parent-Child Conversations & Summarize
+![Parent-Child](public/screenshot-parent-child.png)
+
 ### API Settings
 ![Settings](public/screenshot-settings.png)
 
